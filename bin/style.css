@@ -1,0 +1,16 @@
+AnchorPane{
+	-fx-font-size:14px;
+}
+Pane{
+	-fx-background-color:#ffffff;
+}
+Pane Label{
+	-fx-font-size:22px;
+}
+.seal{
+	-fx-background-color:transparent;
+}
+
+TableView .table-column {
+  -fx-alignment: CENTER;
+}
